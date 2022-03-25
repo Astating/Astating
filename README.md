@@ -1,6 +1,7 @@
 ## Who am I ?
 
 <img src="https://img.shields.io/badge/javascript%20-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=grey" /><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-cornflowerblue?&style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=pink">
+
 <i>*current focus : React \o/*</i>
 <hr>
 I'm currently striving forward to become a still very junior full-stack software engineer but with solid foundations and an ability to learn, and... I do enjoy it quite much !
