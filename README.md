@@ -4,7 +4,7 @@
 
 <i>*current focus : React \o/*</i>
 <hr>
-I'm currently striving forward to become a still very junior full-stack software engineer but with solid foundations and an ability to learn, and... I do enjoy it quite much !
+I'm currently striving forward to become a still very junior full-stack software engineer but with solid foundations and an ability to learn, and... I do enjoy it quite much ! <br/><br>
 
 After teaching Classics for three years, I'm currently learning programming at *Ada Tech School*, a dev school where you learn by doing. No classes, but a written curriculum, available mentors, and many two-week group projects and frequent problem-solving.
 
