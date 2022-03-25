@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/javascript%20-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=grey" /><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-cornflowerblue?&style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=pink">
 <hr>
-I'm currently striving forward to become a still very junior full-stack software engineer but with solid foundations and an ability to learn, and... I do enjoy it quite much ! *(current focus : React \*o\*)*
+I'm currently striving forward to become a still very junior full-stack software engineer but with solid foundations and an ability to learn, and... I do enjoy it quite much ! <i>(current focus : React \o/)</i>
 
 After teaching Classics for three years, I'm currently learning programming at *Ada Tech School*, a dev school where you learn by doing. No classes, but a written curriculum, available mentors, and many two-week group projects and frequent problem-solving.
 
