@@ -15,9 +15,14 @@ Every Friday is work-on-what-you-want day at Ada Tech School. I usually do some 
 
 ## projects : WIP
 
-## skills : WIP
+## technological watch :
+- **Books:** *Practical Object-Oriented Design: An Agile Primer Using Ruby (POODR)* by Sandi Metz [**reading**],<br>
+*You Don't Know JS Yet* by Kyle Simpson [**reading**]
+- **Newsletters:** CSS-Tricks, Javascript Weekly, Ruby Weekly, A11y, Guriosity
+- **Misc:** Podcasts, official documentation, random articles, Stack Overflow, ...
 
-## technological watch : WIP
+## certifications :
+Codingame language certifications : [Javascript (top 1%)](https://www.codingame.com/certification/PAk1HTrpQAh5tRm_pWl5PA), [Ruby (top 1%)](https://www.codingame.com/certification/BVufJYwlBfAnfjWehxw38w)
 
 
 <p align="center">
