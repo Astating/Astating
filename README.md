@@ -13,7 +13,7 @@ Apart from the more grounded skills I've been confident enough to put in the bad
 
 Every Friday is work-on-what-you-want day at Ada Tech School. I usually do some katas but above all work on The Odin Project curriculum, a very solid full-stack web curriculum to learn efficient programming and autonomous problem-solving with progressively more ambitious projects. A shout-out to this amazing open-source endeavour !
 
-<details open>
+<details>
    <summary>
       <h2>projects (WIP)</h2>
    </summary>
