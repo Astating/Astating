@@ -13,7 +13,27 @@ Apart from the more grounded skills I've been confident enough to put in the bad
 
 Every Friday is work-on-what-you-want day at Ada Tech School. I usually do some katas but above all work on The Odin Project curriculum, a very solid full-stack web curriculum to learn efficient programming and autonomous problem-solving with progressively more ambitious projects. A shout-out to this amazing open-source endeavour !
 
-## projects : WIP
+<details open>
+   <summary>
+      <h2>projects (WIP)</h2>
+   </summary>
+   <ul><details>
+   <summary>
+      <h4>A few school projects : WIP</h2>
+   </summary>
+      <b>Details to come !</b>
+      <li> PICO-8 platformer
+      <li>NewZik (chrome extension)
+      <li>SLM (Sauver les meubles - second-hand furniture mock e-commerce site)
+      <li>SurfSpots (iOS application)
+      
+</details>
+      <details>
+   <summary>
+      <h4>Odin projects (WIP)</h2>
+   </summary>
+      </details></ul>
+</details>
 
 ## technological watch :
 - **Books:** *Practical Object-Oriented Design: An Agile Primer Using Ruby (POODR)* by Sandi Metz [**reading**],<br>
