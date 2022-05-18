@@ -24,8 +24,8 @@ Every Friday is work-on-what-you-want day at Ada Tech School. I usually do some 
       <b>Details to come !</b>
       <li><a href="https://github.com/Astating/PROJET-COLLECTIF-Jeu-de-plateforme-PICO-8">PICO-8 platformer</a>
       <li><a href="https://github.com/Astating/PROJET-COLLECTIF-extension-navigateur">NewZik (chrome extension)</a>
-      <li>SLM (Sauver les meubles - second-hand furniture mock e-commerce site)
-      <li>SurfSpots (iOS application)
+      <li><a href="https://github.com/Astating/project-collectif---vente-de-meubles-slm_front">SLM (Sauver les meubles - second-hand furniture mock e-commerce site)</a>
+      <li>SurfSpots (iOS application) - WIP till June 30th
       
 </details>
       <details>
