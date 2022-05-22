@@ -42,7 +42,8 @@ Every Friday is work-on-what-you-want day at Ada Tech School. I usually do some 
 - **Misc:** Podcasts, official documentation, random articles, Stack Overflow, ...
 
 ## certifications :
-Codingame language certifications : [Javascript (top 1%)](https://www.codingame.com/certification/PAk1HTrpQAh5tRm_pWl5PA), [Ruby (top 1%)](https://www.codingame.com/certification/BVufJYwlBfAnfjWehxw38w)
+Codingame language certifications: [Javascript (top 1%)](https://www.codingame.com/certification/PAk1HTrpQAh5tRm_pWl5PA), [Ruby (top 1%)](https://www.codingame.com/certification/BVufJYwlBfAnfjWehxw38w)<br>
+freeCodeCamp certifications: [JS algorithms & data structures](https://www.freecodecamp.org/certification/astating/javascript-algorithms-and-data-structures)
 
 
 <p align="center">
