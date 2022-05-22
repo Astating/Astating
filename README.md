@@ -13,19 +13,29 @@ Apart from the more grounded skills I've been confident enough to put in the bad
 
 Every Friday is work-on-what-you-want day at Ada Tech School. I usually do some katas but above all work on The Odin Project curriculum, a very solid full-stack web curriculum to learn efficient programming and autonomous problem-solving with progressively more ambitious projects. A shout-out to this amazing open-source endeavour !
 
-<details>
+<details open>
    <summary>
       <h2>projects (WIP)</h2>
    </summary>
-   <ul><details>
+   <ul><details open >
    <summary>
       <h4>A few school projects : WIP</h2>
    </summary>
-      <b>Details to come !</b>
-      <li><a href="https://github.com/Astating/PROJET-COLLECTIF-Jeu-de-plateforme-PICO-8">PICO-8 platformer</a>
-      <li><a href="https://github.com/Astating/PROJET-COLLECTIF-extension-navigateur">NewZik (chrome extension)</a>
-      <li><a href="https://github.com/Astating/project-collectif---vente-de-meubles-slm_front">SLM (Sauver les meubles - second-hand furniture mock e-commerce site)</a>
-      <li>SurfSpots (iOS application) - WIP till June 30th
+      <ul><b>Details to come !</b>
+      <details open><summary><a href="https://github.com/Astating/PROJET-COLLECTIF-Jeu-de-plateforme-PICO-8">PICO-8 platformer</a></summary>
+         <img loading="lazy" alt="PICO-8 game preview" src="https://raw.githubusercontent.com/Astating/PROJET-COLLECTIF-Jeu-de-plateforme-PICO-8/main/preview.gif"></details>
+      <details>
+         <summary><a href="https://github.com/Astating/PROJET-COLLECTIF-extension-navigateur">NewZik (chrome extension)</a></summary>
+         <img loading="lazy" alt="NewZik Chrome Extension preview" src="https://raw.githubusercontent.com/Astating/PROJET-COLLECTIF-extension-navigateur/main/src/image/NewZik.png" width="300px"/>
+      </details>
+      <details>
+         <summary><a href="https://github.com/Astating/project-collectif---vente-de-meubles-slm_front">SLM (Sauver les meubles - second-hand furniture mock e-commerce site)</a></summary>
+         <img loading="lazy" height="250px" src="https://camo.githubusercontent.com/2d3e10a16279bd833c37094fd31855205ff1f5857d113e566f6ba08f5979ecfb/68747470733a2f2f692e6962622e636f2f346768435756382f66726f6e74706167652e706e67"> <img loading="lazy" width="600px" src="https://camo.githubusercontent.com/734f5c1091144a4a95cdaf61bd5a254e8418d5a9a1fa408faa86cf8356b3a9a0/68747470733a2f2f692e6962622e636f2f3331317a5879682f70726f64756374706167652e706e67">
+      </details>
+      <details>
+         <summary> SurfSpots (iOS application) - WIP till June 30th </summary>
+         <video control src="https://user-images.githubusercontent.com/79377061/169690435-86bf7de3-6653-427b-a59e-914d3e86629c.mp4"/>
+      </details></ul>
       
 </details>
       <details>
